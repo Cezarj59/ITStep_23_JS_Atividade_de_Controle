@@ -1,5 +1,5 @@
 <h2>ITStep_23_JS_Atividade_de_Controle.</h2>
-<p>Demonstração da lógica do sistema de dano de um Jogo de luta com JavaScript.</p>
+<p>Criação da lógica de um sistema de dano de um Jogo de luta com JavaScript.</p>
 
 <ol><h3>Requisitos da Atividade</h3>
 <li>Ao clicar no botão jogador 1 aumentara 5% o dano na barra da Stamina do jogador 2.</li>
