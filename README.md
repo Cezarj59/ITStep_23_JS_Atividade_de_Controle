@@ -4,7 +4,7 @@
 <ol><h3>Requisitos da Atividade</h3>
 <li>Ao clicar no botão jogador 1 aumentara 5% o dano na barra da Stamina do jogador 2.</li>
 <li>Ao clicar no botão jogador 2 aumentara 5% o dano na barra da Stamina do jogador 1.</li>
-<li>Quando a Stamina de um dos jogadores chegar a 10%, exibir um alerta de Game Over, e dizer de quem foi a vitória (jogador 1 ou jogador 2). </li>
+<li>Se Stamina de um dos jogadores chegar a 10%, exibir um alerta de Game Over, e dizer de quem foi a vitória (jogador 1 ou jogador 2).</li>
 <li>O tempo deverá começar em 99 e contar até 00 caso alguém ganhe deverá parar o tempo!</li>
 <li>Caso o tempo acabe antes de alguém ganhar exibir um Alert Game Over, e dizer de quem foi a vitória.</li>
 <li>A vitória é de quem tem mais dano em vermelho, na barra de Stamina do oponente(Amarelo).</li>
